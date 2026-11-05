@@ -1,0 +1,17 @@
+{
+  "seed": 0,
+  "steps": 600,
+  "elapsed_sec": 22.19,
+  "train_loss_first": 3.186032295227051,
+  "train_loss_last": 0.034991513937711716,
+  "val_loss_first": 3.064377784729004,
+  "val_loss_last": 0.017604034394025803,
+  "config": {
+    "context_size": 64,
+    "d_model": 128,
+    "n_heads": 4,
+    "n_layers": 2,
+    "dropout": 0.1,
+    "batch_size": 32
+  }
+}

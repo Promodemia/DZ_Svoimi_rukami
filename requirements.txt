@@ -1,0 +1,6 @@
+# Runtime dependencies for the scripts and notebooks.
+# PyTorch CPU wheel is recommended on machines without a GPU:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch>=2.2
+matplotlib>=3.7
+numpy>=1.24
